@@ -33,3 +33,6 @@
 
 ✅ Conclusion & Value Delivered:
     ➡️ This project transitioned Uber’s raw transactional data into a strategic asset. By centralizing performance data into one interactive platform, stakeholders can now perform real-time monitoring of revenue trends and logistical bottlenecks. This shift from manual reporting to proactive visual analytics directly supports Uber’s goal of providing efficient, on-demand transit across its global network.
+
+➡️ View the Full Business Report (PDF): [Uber Problems and Business Requirements.pdf](https://github.com/user-attachments/files/28070306/Uber.Problems.and.Business.Requirements.pdf)
+
