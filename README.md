@@ -1,15 +1,12 @@
 # PowerBI_UBER_Analysis
-✅ Introduction: 
-This project documentation details a comprehensive Uber Performance & Revenue Analytics solution developed in Power BI Desktop. It transforms complex transactional data into actionable insights across five key operational areas: General Overview, Vehicle Performance, Revenue Analysis, Rider Behavior, and Geospatial Logistics.
 
-✅ Project Overview: 
-This repository features a multi-page interactive dashboard designed to optimize Uber's operational efficiency and revenue streams. By integrating data across ride types, customer segments, and geographic locations, the project provides a 360-degree view of business health, enabling data-driven strategies for demand forecasting and service optimization.
+✅ Introduction: This project documentation details a comprehensive Uber Performance & Revenue Analytics solution developed in Power BI Desktop. It transforms complex transactional data into actionable insights across five key operational areas: General Overview, Vehicle Performance, Revenue Analysis, Rider Behavior, and Geospatial Logistics.
 
-✅ The Challenge (Situation): 
-The management required a centralized system to track fragmented data points across a massive mobility network. Key operational gaps included a lack of visibility into ride cancellation reasons, inconsistent revenue tracking by vehicle type, and difficulty identifying geospatial bottlenecks in high-demand time slots.  
+✅ Project Overview: This repository features a multi-page interactive dashboard designed to optimize Uber's operational efficiency and revenue streams. By integrating data across ride types, customer segments, and geographic locations, the project provides a 360-degree view of business health, enabling data-driven strategies for demand forecasting and service optimization.
 
-✅ Solution Objective (Task):
-The primary goal was to design a comprehensive analytical suite in Power BI that could:
+✅ The Challenge (Situation): The management required a centralized system to track fragmented data points across a massive mobility network. Key operational gaps included a lack of visibility into ride cancellation reasons, inconsistent revenue tracking by vehicle type, and difficulty identifying geospatial bottlenecks in high-demand time slots.  
+
+✅ Solution Objective (Task): The primary goal was to design a comprehensive analytical suite in Power BI that could:
     ➡️ Track Key Performance Indicators (KPIs) including Completed Bookings, Revenue, and Average Ratings.  
     ➡️ Provide granular drill-downs for Vehicle Performance and Revenue streams by customer and payment method.  
     ➡️ Perform Geospatial and Time-Series analysis to identify busy time slots and top pickup/drop-off locations.  
